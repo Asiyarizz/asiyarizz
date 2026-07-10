@@ -1,5 +1,12 @@
-## Hi there 👋
-This is my first GIT REPOSITORY.
+# Hi 👋 I'm Asiya
+
+🎓 BCA Student
+
+🌱 Currently learning HTML, CSS, PHP, MySQL & Git
+
+💻 Building projects 
+
+📫 Reach me: asiyarizvi09@gmail.com
 <br>
 Author- Asiya Rizvi
 <!--
